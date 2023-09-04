@@ -1,0 +1,19 @@
+body {
+    max-width: 80%;
+    margin: auto;
+}
+
+h2 {
+    color:red;
+}
+
+p, h3 {
+    text-align: left;
+    padding: 0.2rem;
+}
+
+img {
+    width: 80%; 
+    display: block; 
+    margin: auto;
+}
